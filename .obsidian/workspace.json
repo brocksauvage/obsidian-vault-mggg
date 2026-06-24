@@ -12,16 +12,14 @@
             "id": "226aec1020c6b93b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Reports/MA-report.pdf",
-                "page": 3,
-                "left": -13,
-                "top": 588,
-                "zoom": 1.144607843137255
+                "file": "VoteKit/VoteKit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MA-report"
+              "icon": "lucide-file",
+              "title": "VoteKit"
             }
           }
         ]
@@ -37,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reports/MA-report.pdf",
+                "file": "VoteKit/VoteKit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -65,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MA-report"
+              "title": "Graph of VoteKit"
             }
           }
         ]
@@ -233,53 +231,28 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "floating": {
-    "id": "4046afa482973608",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0af2db434d1dfd1c",
-        "type": "window",
-        "children": [
-          {
-            "id": "b9404a71d74101da",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1f392cc8ec25b9a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Reports/CA_STV_Modeling.pdf",
-                    "page": 13,
-                    "left": -318,
-                    "top": 765,
-                    "zoom": 1.54
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "CA_STV_Modeling"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1520,
-        "y": 32,
-        "width": 1448,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "226aec1020c6b93b",
   "lastOpenFiles": [
+    "VoteKit/Ballot Generators.md",
+    "VoteKit/Ballot.md",
+    "VoteKit/VoteKit.md",
+    "VoteKit/Elections Overview.md",
+    "VoteKit/Graphs and Visualization.md",
+    "VoteKit/Matrices.md",
+    "VoteKit/Metrics.md",
+    "VoteKit/Score Elections.md",
+    "VoteKit/Approval Elections.md",
+    "Reports/MA-report.pdf",
+    "VoteKit/Ranking Elections.md",
+    "VoteKit/Cleaning.md",
+    "VoteKit/CVR Loaders.md",
+    "VoteKit/Preference Interval.md",
+    "VoteKit/Preference Profile.md",
+    "VoteKit/Architecture Overview.md",
+    "VoteKit",
+    "Reports/CA_STV_Modeling.pdf",
     "README.md",
     "obsidian-vault-mggg",
-    "Reports/CA_STV_Modeling.pdf",
-    "Reports/MA-report.pdf",
     "Reports/Lowell-Report.pdf",
     "GerryChain/MarkovChain.md",
     "GerryChain/GerryChain Class Diagram.canvas",
@@ -291,28 +264,11 @@
     "GerryChain/Acceptance Functions.md",
     "GerryChain/Spectral Proposals.md",
     "GerryChain/ReCom.md",
-    "Data and Democracy Lab.md",
-    "GerryChain/Updaters.md",
-    "GerryChain/Diversity Stats.md",
-    "GerryChain/Metagraph.md",
-    "GerryChain/Efficiency Gap.md",
-    "GerryChain/Metrics.md",
-    "GerryChain/SingleMetricOptimizer.md",
-    "GerryChain/Election.md",
-    "GerryChain/DataTally.md",
-    "GerryChain/Tally.md",
-    "GerryChain/Contiguity Constraints.md",
-    "GerryChain/Bounds.md",
-    "GerryChain/Validator.md",
-    "GerryChain/Constraints.md",
     "GerryChain/Constraints.md.tmp.6668.b4962971ba08",
     "Untitled.base",
-    "GerryChain/PopulatedGraph.md",
-    "GerryChain/Tree Partitioning.md",
     "Untitled.canvas",
     "GerryChain",
     "Learning Plans",
-    "Notes",
-    "Reports/FRA-Report.pdf"
+    "Notes"
   ]
 }

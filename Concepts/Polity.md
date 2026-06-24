@@ -1,0 +1,1 @@
+A group of people with a collective identify, who are organized by some form of political, institutionalized social relations and have a capacity to mobilize resources. 

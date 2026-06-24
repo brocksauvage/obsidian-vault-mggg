@@ -1,0 +1,2 @@
+The idea that a big enough [[Voting Bloc|voting bloc]] can vote together and elect their preferred candidates in a manner that's proportional to their size relative to the overall population. This is a mathematical guarantee of [[Single Transferable Vote]]. This loosely  
+says that if any group makes up a substantial fraction of voters and solidly ranks one group of candidates over the other, then they will get proportional representation. However, real-world voters rarely display such perfect discipline in their rankings.

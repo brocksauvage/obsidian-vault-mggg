@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"42a3f707a14a6a09","x":-400,"y":-180,"width":100,"height":60,"type":"text","text":"Partition"},
+		{"id":"2e3508012c35c968","x":-560,"y":-180,"width":80,"height":60,"type":"text","text":"Graph"}
+	],
+	"edges":[
+		{"id":"ce6a9673eca0e853","fromNode":"2e3508012c35c968","fromSide":"right","toNode":"42a3f707a14a6a09","toSide":"left"}
+	]
+}
